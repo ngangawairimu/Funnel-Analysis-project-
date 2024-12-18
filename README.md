@@ -1,6 +1,6 @@
-Excel link : https://docs.google.com/spreadsheets/d/1v72IZxuNW3Cy09v3S3ILUNGIKjeK1uJBSnK8RYwWrb8/edit?usp=sharing
+Excel link: https://docs.google.com/spreadsheets/d/1v72IZxuNW3Cy09v3S3ILUNGIKjeK1uJBSnK8RYwWrb8/edit?usp=sharing
 ### Overview
-This project performs a funnel analysis on user engagement data from the tc-da-1.turing_data_analytics dataset. The primary goal is to visualize and understand the user journey across various interaction stages, including:
+This project performs a funnel analysis of user engagement data. The primary goal is to visualize and understand the user journey across various interaction stages, including:
 
 - page_view
 - view_item
